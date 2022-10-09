@@ -1,6 +1,6 @@
 fx_version 'cerulean'
 game 'gta5'
-author "koi nahi ha JNL"
+author "GamingLyon"
 version '1.1.4'
 
 
